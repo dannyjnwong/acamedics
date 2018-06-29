@@ -53,5 +53,29 @@ There has been an explosion in the availibility of online courses. They vary fro
 - vim adventures (www.vimadventures.com) is a brilliant way to learn your way around vim (a unix based text editor).
 - William E. Shotts has written an ebook on unix which is open source and a great overview of how unix works http://linuxcommand.org/tlcl.php
 
+## Causal Inference
+
+Building upon the foundations of maths and R skills gained above, consider delving deeper into learning about causal inference techniques:
+
+### Online material
+
+- A Crash Course in Causality (https://www.coursera.org/learn/crash-course-in-causality): this Coursera course is extremely good and clear, with conceptual introductions and examples in R. Well worth £37 to do the course with certificate, or free if you don't want a certificate (but pay the money, it'll force you to do the course and it's extremely good).
+- Causal Inference Bootcamp (https://www.youtube.com/watch?v=FNpcwiOme1g&list=PL1M5TsfDV6Vufqfs_h5fDR3pBhIj4QOW7): YouTube channel with quick videos and clear explanations.
+
+### Directed Acyclic Graphs (DAGs)
+
+DAGs are graphical representations of relationships between variables, where each node represents a variable, and each vertex represents the direction of the relationship. DAGs allow us to communicate our assumptions about a model to the reader and importantly help us to specify our models. Learn about and draw DAGs online here: http://www.dagitty.net/
+
+### Books
+
+The following 2 books gives a good introduction to Propensity Score methods. 
+
+- Propensity Score Analysis: Statistical Methods and Applications (Advanced Quantitative Techniques in the Social Sciences) by Shenyang Y. Guo and Mark W. Fraser (https://www.amazon.co.uk/Propensity-Score-Analysis-Applications-Quantitative/dp/1412953561)
+- Design of Observational Studies (Springer Series in Statistics) by Paul R. Rosenbaum (https://www.amazon.co.uk/Design-Observational-Studies-Springer-Statistics/dp/1441912126/ref=sr_1_1?s=books&ie=UTF8&qid=1530278645&sr=1-1&keywords=design+of+observational+studies): This book is very readable, uses few mathematical formulae. The author writes in his introduction that he set out to write this book to use prose to explain the mathematics rather than to use mathetmatics to explain the concepts.
+
+The following book(s) gives an introduction to Instrumental Variable Analysis
+
+- Mostly Harmless Econometrics: An Empiricist's Companion Paperback by Joshua D. Angrist and Jörn-Steffen Pischke (https://www.amazon.co.uk/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358/ref=sr_1_1?s=books&ie=UTF8&qid=1530278837&sr=1-1&keywords=mostly+harmless+econometrics)
+
 ## Lab Meetings
 - We meet every Monday morning to discuss ongoing projects. Everyone is welcome to attend and watch or present. No matter the size, scale or complexity, we would encourge you to present any work as a way to crowd source solutions to problems and figure out what the next step might be.
